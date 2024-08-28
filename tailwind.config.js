@@ -14,8 +14,8 @@ export default {
     },
     extend: {
       backgroundImage:{
-        'main-bg-desktop':"url('src/assets/images/background-pattern-desktop.svg')",
-        'main-bg-mobile':"url('src/assets/images/background-pattern-mobile.svg')"
+        'main-bg-desktop':"url('assets/images/background-pattern-desktop.svg')",
+        'main-bg-mobile':"url('assets/images/background-pattern-mobile.svg')"
       },
       // animation:{
       //   'drop-from-up':'dropFromUp 1s ease-in'
