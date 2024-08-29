@@ -22,8 +22,8 @@ export default {
       // },
       // keyframes:{
       //   'dropFromUp':{
-      //     'from':'h-0',
-      //     'to':'h-fit'
+      //     'from':'opacity-0',
+      //     'to':'opacity-100'
           
       //   }
       // }
